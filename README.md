@@ -1,5 +1,7 @@
 ### UNFORTUNATELY OUR INSTRUCTOR DELETED OUR ORIGINAL REPOSITORY SO WE HAD TO RECREATE IT
 
+All previous commits have been lost
+
 # GITHUB REPO INSTRUCTIONS
 
 ## COA Progress Tracking Flutter App
