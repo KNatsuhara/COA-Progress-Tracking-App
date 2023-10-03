@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410245040183",
+    "project_id": "coa-progress-tracking-app",
+    "storage_bucket": "coa-progress-tracking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410245040183:android:1ceca8c06b7dab518797b2",
+        "android_client_info": {
+          "package_name": "onestack.wsu.edu.coa_progress_tracking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410245040183-1hp7nup2jdlf2s5nk3cgfq9os9qa8vph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWqjozljIWW65CIbr_TpgrmyuQRM59zz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410245040183-1hp7nup2jdlf2s5nk3cgfq9os9qa8vph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
